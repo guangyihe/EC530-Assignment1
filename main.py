@@ -1,5 +1,6 @@
 import math
 
+
 def haversine_distance(lat1, lon1, lat2, lon2):
     """
     Calculate the Haversine distance between two geographic points (in kilometers).
